@@ -1,0 +1,20 @@
+\documentclass{slides}
+\usepackage[dvips]{color}
+\begin{document}
+\begin{slide}
+\begin{displaymath}
+V_{DD}(t) = 
+\int_{-\infty}^{\infty}
+e^{-i \phi_D}
+\left ( \int_{-\infty}^{\infty} V(t) e^{-2 \pi i f t} dt \right )
+e^{2 \pi i f t} df
+\end{displaymath}
+\begin{displaymath}
+\phi_D = -2 \pi f \left [ \frac{L}{c} \frac{f^2}{f_p^2} \right ]
+\left [ \frac{f/f_L}{1 + f/f_L} \right ]
+\end{displaymath}
+\begin{displaymath}
+f = f_{RF} - f_L
+\end{displaymath}
+\end{slide}
+\end{document} 

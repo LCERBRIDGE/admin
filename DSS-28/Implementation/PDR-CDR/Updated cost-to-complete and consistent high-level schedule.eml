@@ -1,0 +1,79 @@
+X-Account-Key: account3
+X-UIDL: 43f3e993@38871
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 10000000
+Return-Path: <lawrence.teitelbaum@jpl.nasa.gov>
+Received: from localhost by mbox1.jpl.nasa.gov with LMTP; Sun, 04 Feb 2007 20:26:39 -0800
+Received: from nmta1.jpl.nasa.gov with LMTP by mbox1.jpl.nasa.gov (3.0.2/sieved-3-0-build-942);
+	Sun,  4 Feb 2007 20:26:39 -0800
+Received: from xmta1.jpl.nasa.gov (xmta1.jpl.nasa.gov [137.78.160.144])
+	by nmta1.jpl.nasa.gov (Switch-3.1.9/Switch-3.1.9) with ESMTP id l154Qa0F031235;
+	Sun, 4 Feb 2007 20:26:36 -0800
+Received: from [192.168.1.103] (vpn-149-244-045.jpl.nasa.gov [128.149.244.45])
+	by xmta1.jpl.nasa.gov (Switch-3.1.9/Switch-3.1.9) with ESMTP id l154Q7Y7007145;
+	Sun, 4 Feb 2007 20:26:08 -0800
+Mime-Version: 1.0
+Message-Id: <p06230905c1ec5d3d2440@[192.168.1.103]>
+Date: Sun, 4 Feb 2007 20:26:02 -0800
+To: farrokh.baher@jpl.nasa.gov, neil.bucknam@jpl.nasa.gov,
+        tom.kuiper@jpl.nasa.gov, john.lauf@jpl.nasa.gov,
+        sander.weinreb@jpl.nasa.gov, sweinreb@caltech.edu,
+        jleflang@pacbell.net, dmaclaren@lcer.org
+From: lawrence teitelbaum <lawrence.teitelbaum@jpl.nasa.gov>
+Subject: Updated cost-to-complete and consistent high-level schedule
+Cc: art.freiley@jpl.nasa.gov, mark.hofstadter@jpl.nasa.gov,
+        peter.poon@jpl.nasa.gov
+Content-Type: multipart/mixed; boundary="============_-1041472927==_============"
+X-Source-IP: vpn-149-244-045.jpl.nasa.gov [128.149.244.45]
+X-Source-Sender: lawrence.teitelbaum@jpl.nasa.gov
+X-AUTH: Authorized
+
+--============_-1041472927==_============
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+
+Dear Team Members,
+
+The attached PCAT spreadsheet is my updated cost-to-complete the 
+DSS-28 implementation. The DSS-28_sched_PDRCDR.xls is an updated, 
+high level schedule consistent with the time-phasing in the cost 
+sheet and our goal to complete the implementation by December 2007 
+(11 months after the review) and devote FY08 to integration and test. 
+We deliver to LCER for operations and ITT for maintenance October 
+2008. I am starting to work now on a more detailed integrated 
+schedule. I also will update the color-of-money chart once the team 
+vets the cost estimate.
+
+The cost approximately holds together. I will explain how at 
+tomorrow's meeting. We succeeded with our DSS-28 lien for $69.3K, 
+which captured the FY07 under-run and also restored the artificial 
+cuts to NASA/IND's funding due to overhead rate changes. We will have 
+to change the profile a bit, spending more in FY07, spending less in 
+FY08 and squeezing a little in JPL engineering support during final 
+I&T. DSMS indicated during the lien decision a willingness to change 
+the profile, but not to augment the funding.
+
+I intend to send individual emails to all of you tomorrow stating the 
+assumptions I made in arriving at the cost-to-complete, or the 
+mapping from the cost material you provided me into the rolled-up 
+cost sheet. Alternatively, we can sit behind my computer and 
+walk-through it.
+
+No surprise, the strain in the budget is providing all the JPL 
+engineering support on such a tight budget.
+
+See you tomorrow at the meeting, regards,
+
+Larry
+-- 
+*****************************************
+From:	Dr. Larry Teitelbaum
+	Manager, Advanced Tracking and Observational Techniques Office
+	Jet Propulsion Laboratory
+	4800 Oak Grove Drive
+	M/S: 238-737
+	Pasadena, CA 91109-8099
+
+Phone:	818-354-1043
+Fax: 	818-354-2825
+Email:  	lawrence.teitelbaum@jpl.nasa.gov
+*****************************************
